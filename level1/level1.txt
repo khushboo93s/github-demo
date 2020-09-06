@@ -1,0 +1,3 @@
+ HIPSM is a detailed microsimulation model of
+individuals, families, and employers making coverage
+decisions within a health insurance market
